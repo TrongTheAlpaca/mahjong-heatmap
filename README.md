@@ -19,7 +19,11 @@
 
 ## Preface
 
-The code you are currently reading was originally designed for visualizing [Japanese Mahjong board states](https://www.kaggle.com/datasets/trongdt/japanese-mahjong-board-states), and is used in my thesis: ["A Supervised Attention-Based Multiclass Classifier for Tile Discarding in Japanese Mahjong"](https://hdl.handle.net/11250/2823898). The code has since been improved for future use. 
+The code you are currently reading was originally designed for visualizing [Japanese Mahjong board states](https://www.kaggle.com/datasets/trongdt/japanese-mahjong-board-states), and is used in my thesis: 
+
+> ["A Supervised Attention-Based Multiclass Classifier for Tile Discarding in Japanese Mahjong"](https://hdl.handle.net/11250/2823898)
+
+The code has since been improved for future use. 
 
 If you choose to use it in your works, be it academic or personal work, it would mean a lot to me if you credited my code in your works.
 
@@ -27,12 +31,15 @@ If you choose to use it in your works, be it academic or personal work, it would
 
 1. Copy `mahjong_heatmap.py` into your project.
 2. Install necessary Python libraries (see [requirements.txt](./requirements.txt)).
-3. Import file into your code, see [Jupyter Notebook](./generate_mahjong_heatmap.ipynb) for example usages.
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Import file into your code, see [Jupyter Notebook](./example_usage.ipynb) for example usages.
 
 
 ## Examples
 
-See `resources` and the Jupyter Notebook for more examples.
+See [`resources`](./resources/) and the [Jupyter Notebook](./example_usage.ipynb) for more examples.
 
 ### Visualizing Mahjong board state
 
