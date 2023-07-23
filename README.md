@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">Mahjong Heatmap</h1>
+<h2 align="center">Mahjong Heatmap</h2>
 
 <p align="center">
 <a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
@@ -11,9 +11,10 @@
 <a href="https://en.wikipedia.org/wiki/Cat"><img src="https://img.shields.io/badge/Animal-🐱-orange.svg"></a>
 </p>
 
-
-<center><i>"Visualize your Mahjong boards as heatmaps! 🀄"</i></center>
+<p align="center">
+<i>"Visualize your Mahjong boards as heatmaps! 🀄"</i>
 </p>
+
 
 
 ## Preface
@@ -51,7 +52,7 @@ You can create colorful heatmaps to spice up your works:
 </p>
 
 <p align="center">
-    <img src="./resources/spectral_white_border.png">
+    <img src="./resources/Spectral_white_border.png">
 </p>
 
 <p align="center">
