@@ -1,19 +1,15 @@
-<center>
-
-[![Mahjong Heatmap](./resources/logo.svg)](https://github.com/TrongTheAlpaca/mahjong-heatmap)
-
-</center>
+<p align="center">
+    <img src="./resources/logo.svg">
+</p>
 
 
 <h1 align="center">Mahjong Heatmap</h1>
 
-<center>
-
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+<p align="center">
+<a href="./LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
-[![Cat meow meow](https://img.shields.io/badge/Animal-🐱-orange.svg)](./LICENSE)
-
-</center>
+<a href="https://en.wikipedia.org/wiki/Cat"><img src="https://img.shields.io/badge/Animal-🐱-orange.svg"></a>
+</p>
 
 
 <center><i>"Visualize your Mahjong boards as heatmaps! 🀄"</i></center>
@@ -31,3 +27,33 @@ If you choose to use it in your works, be it academic or personal work, it would
 1. Copy `mahjong_heatmap.py` into your project.
 2. Install necessary Python libraries (see [requirements.txt](./requirements.txt)).
 3. Import file into your code, see [Jupyter Notebook](./generate_mahjong_heatmap.ipynb) for example usages.
+
+
+## Examples
+
+See `resources` and the Jupyter Notebook for more examples.
+
+### Visualizing Mahjong board state
+
+Useful for presenting a board state matrix:
+
+Tenhou Board             |  Heatmap
+:-------------------------:|:-------------------------:
+![](./resources/tenhou_example.png)  |  ![](./resources/kaggle_example_black.png)
+
+
+### Colorful Heatmaps
+
+You can create colorful heatmaps to spice up your works:
+
+<p align="center">
+    <img src="./resources/icefire_no_border.png">
+</p>
+
+<p align="center">
+    <img src="./resources/spectral_white_border.png">
+</p>
+
+<p align="center">
+    <img src="./resources/vlag_no_border.png">
+</p>
