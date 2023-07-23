@@ -166,14 +166,13 @@ def generate_mahjong_heatmap(
 
     ax_seaborn = sns.heatmap(input_matrix, **heatmap_params)
 
+    ax_seaborn.tick_params(
+        left=False, bottom=False, top=False, labelsize=label_fontsize
+    )
     if title:
         ax_seaborn.set_title(title, fontdict=dict(fontsize=20))
 
     if labels_top:
-        ax_seaborn.tick_params(
-            left=False, bottom=False, top=False, labelsize=label_fontsize
-        )
-
         secax = ax_seaborn.secondary_xaxis("top")
         secax.set_xticks(ax_seaborn.get_xticks())
         secax.set_xticklabels(labels_top, rotation=90, fontsize=label_fontsize)

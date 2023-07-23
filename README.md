@@ -1,13 +1,22 @@
+<center>
+
+[![Mahjong Heatmap](./resources/logo.svg)](https://github.com/TrongTheAlpaca/mahjong-heatmap)
+
+</center>
+
+
 <h1 align="center">Mahjong Heatmap</h1>
 
-<p align="center">
+<center>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
+[![Cat meow meow](https://img.shields.io/badge/Animal-🐱-orange.svg)](./LICENSE)
 
-"Visualize your Mahjong boards as heatmaps! 🀄"
+</center>
 
+
+<center><i>"Visualize your Mahjong boards as heatmaps! 🀄"</i></center>
 </p>
 
 
