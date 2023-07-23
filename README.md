@@ -25,7 +25,7 @@ The code you are currently reading was originally designed for visualizing [Japa
 
 The code has since been improved for future use. 
 
-If you choose to use it in your works, be it academic or personal work, it would mean a lot to me if you credited my code in your works.
+If you choose to use it in your projects, be it academic or personal, it would mean a lot to me if you credited my work.
 
 ## How to use
 
