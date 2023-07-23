@@ -2,7 +2,8 @@
 
 <p align="center">
 
-![./LICENSE](https://img.shields.io/badge/License-MIT-blue.svg)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 
 "Visualize your Mahjong boards as heatmaps! 🀄"
